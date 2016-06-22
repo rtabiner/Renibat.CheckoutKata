@@ -1,0 +1,7 @@
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\bin\Debug\Renibat.CheckoutKata.dll
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\bin\Debug\Renibat.CheckoutKata.pdb
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\bin\Debug\nunit.framework.dll
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\bin\Debug\nunit.framework.xml
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\obj\Debug\Renibat.CheckoutKata.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\obj\Debug\Renibat.CheckoutKata.dll
+c:\users\rob\documents\visual studio 2013\Projects\Renibat.CheckoutKata\Renibat.CheckoutKata\obj\Debug\Renibat.CheckoutKata.pdb
